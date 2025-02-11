@@ -59,7 +59,7 @@ src/
 ## Contributing
 We welcome contributions from the community! 🎉 If you'd like to contribute, please follow the guidelines below.
 
-## #📌 How to Contribute
+###📌 How to Contribute
 
 1. **Fork the Repository**
    - Click the 'Fork' button at the top right of this repository.
@@ -68,8 +68,8 @@ We welcome contributions from the community! 🎉 If you'd like to contribute, p
 2. **Clone Your Fork**
    - Clone the forked repository to your local machine.
    ```sh
-   git clone https://github.com/your-username/ecommerce-app.git
-   cd ecommerce-app
+   git clone https://github.com/ogc16/AcommerceApp.git
+   cd AcommercApp
    ```
 
 3. **Create a New Branch**
