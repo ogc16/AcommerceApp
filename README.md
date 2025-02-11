@@ -59,7 +59,7 @@ src/
 ## Contributing
 We welcome contributions from the community! 🎉 If you'd like to contribute, please follow the guidelines below.
 
-###📌 How to Contribute
+### 📌 How to Contribute
 
 1. **Fork the Repository**
    - Click the 'Fork' button at the top right of this repository.
@@ -101,7 +101,7 @@ We welcome contributions from the community! 🎉 If you'd like to contribute, p
    - Click on 'Pull Requests' and then 'New Pull Request'.
    - Select your branch and submit the pull request for review.
 
-###💡 Contribution Guidelines
+### 💡 Contribution Guidelines
 
 - Ensure all code follows best practices and project coding standards.
 - Keep pull requests focused on one feature or fix at a time.
@@ -109,7 +109,7 @@ We welcome contributions from the community! 🎉 If you'd like to contribute, p
 - Keep changes backward-compatible where possible.
 - Respect other contributors and maintain a positive environment.
 
-###🛠️ Issue Reporting
+### 🛠️ Issue Reporting
 
 If you find a bug or have a feature request, please open an issue:
 1. Navigate to the 'Issues' tab in the repository.
