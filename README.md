@@ -1,4 +1,4 @@
-# NativeScript React E-commerce App
+# AcommerceApp
 
 A modern, cross-platform e-commerce mobile application built with NativeScript and React.
 
