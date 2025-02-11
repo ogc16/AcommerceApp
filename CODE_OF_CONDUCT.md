@@ -54,4 +54,4 @@ Beyond the Code of Conduct, please also follow these guidelines when contributin
 
 *   **Other Contributions:**  We welcome other types of contributions, such as documentation improvements, bug reports, and feature suggestions.
 
-Thank you for contributing to our project!
+Thank you for contributing to the project!
