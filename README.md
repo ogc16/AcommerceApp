@@ -33,23 +33,26 @@ Ensure you have the following installed:
 - Docker (optional, for containerization)
 
 ### Steps
-
-```sh
 # Clone the repository
+```sh
+
 git clone https://github.com/yourusername/ecommerce-app.git
 cd ecommerce-app
-
+```
 # Install dependencies
+```sh
 npm install
-
+```
 # Set up environment variables (create a .env file and add required variables)
 cp .env.example .env
 
 # Start the backend
+```sh
 cd backend
 npm run dev
-
+```
 # Start the frontend
+```sh
 cd ../frontend
 npm run start
 ```
@@ -57,14 +60,15 @@ npm run start
 The application will be available on your emulator or connected device.
 
 ## 🔑 Environment Variables
-
-```sh
 # Backend
+```sh
+
 MONGO_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 STRIPE_SECRET_KEY=your_stripe_key
-
+```
 # Frontend
+```sh
 API_URL=http://localhost:5000/api
 ```
 
@@ -84,5 +88,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📧 Contact
 
-For any issues or feature requests, open an issue or reach out at [your-email@example.com](mailto:your-email@example.com).
+For any issues or feature requests, open an issue or reach out at [admin@techgaetano.com](mailto:admin@techgaetano.com).
 
