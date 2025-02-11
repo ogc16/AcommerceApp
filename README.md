@@ -39,5 +39,21 @@ To get a copy of the project up and running on your local machine for developmen
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/ecommerce-app.git
-   cd ecommerce-app
+   git clone https://github.com/ogc16/AcommerceAapp.git
+   cd Acommerce-app
+2.Install dependencies:
+
+ ```sh
+   npm install  
+
+3.Set up environment variables: Create a .env file in the root directory and add your environment variables (e.g., database connection, API keys):
+
+      ```env
+      DB_HOST=your_database_host
+      DB_USER=your_database_user
+      DB_PASS=your_database_password
+      JWT_SECRET=your_jwt_secret
+4.Link native dependencies:
+
+   ```sh
+   npx react-native link
