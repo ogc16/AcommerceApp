@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+{
+  "semi": true,
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "printWidth": 80,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "endOfLine": "auto"
+}
+=======
+{
+  "semi": true,
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "printWidth": 80,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "endOfLine": "auto"
+}
+>>>>>>> 7327853ed316e32292413a5a4608d2e61dd0e801
